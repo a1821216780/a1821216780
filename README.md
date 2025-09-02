@@ -7,7 +7,7 @@
   
 - 🌱 I’m currently learning Wind turbine dynamics simulation and modeling, Nonlinear structural dynamics analysis and design of long flexible blades.
 
-- 👨‍💻 All of my projects are available at [https://www.openwecd.fun](https://www.openwecd.fun)
+- 👨‍💻 All of my projects are available at [http://www.openwecd.fun](http://www.openwecd.fun)
 
 - 💬 Ask me about **everything**
 
