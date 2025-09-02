@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently a student in Nanjing University of Aeronautics and Astronautics.
   
-- 🌱 I’m currently learning Low Level & Physics-based Vision, Computational Photography and Multi-modal Vision.
+- 🌱 I’m currently learning Wind turbine dynamics simulation and modeling, Nonlinear structural dynamics analysis and design of long flexible blades.
 
 - 👨‍💻 All of my projects are available at [https://www.openwecd.fun](https://www.openwecd.fun)
 
