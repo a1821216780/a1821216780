@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ZiZhen Zhao</h1>
-<h3 align="center">A passionate developer and lecturer from China</h3>
+<h3 align="center">A passionate developer and student from China</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a1821216780" alt="a1821216780" /> </p>
 
