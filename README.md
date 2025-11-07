@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **1821216780@nuaa.edu.cn**, 微信: stkmpc520
 
-- [![My Skills](https://skillicons.dev/icons?i=py,git,github,c,cpp,anaconda,go,md,matlab,pycharm,vscode,windows,vim)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=py,git,github,c,cpp,anaconda,md,matlab,pycharm,vscode,windows)](https://skillicons.dev)
 
 - 🥐: The software HawtC2 for wind turbine simulation!
 
